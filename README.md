@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HarryLit
 - 👀 I’m interested in watching movies and TV shows, and coding
 - 🌱 I’m currently learning React, Nodejs
-- 📫 How to reach me? my website: http://litszx.com/
 
 <!---
 HarryLit/HarryLit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
